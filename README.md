@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @chakravarthiBagula
 - 👀 I’m interested in Programming
 - 💻 I'm skilled in Robotic Process Automation, Python, Java, C/C++, DataBase, Redhat Linux, Web Development Basics(html/css/javascript)
-- 🌱 I’m currently learning Computer Science and Engineering from Aditya College of Engineering, Surampalem.
-- 💞️ I’m looking to get a entry level job where i can utilize and enhance my skills.
+- 🌱 I’m currently studying Computer Science and Engineering from Aditya College of Engineering, Surampalem.
+- 💞️ I’m looking for an internship where i can utilize and enhance my skills.
 - 📫 ping me @bagulachakravarthi814@gmail.com
 
 <!---
