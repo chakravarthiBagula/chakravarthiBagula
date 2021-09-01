@@ -2,7 +2,7 @@
 - 👀 I’m a hardworking and creative programmer.
 - 💻 I'm skilled in Robotic Process Automation, Python, Java, C/C++, DataBase, Redhat Linux, Web Development Basics(html/css/javascript)
 - 🌱 I’m currently studying Computer Science and Engineering from Aditya College of Engineering, Surampalem.
-- 💞️ I’m looking for an internship where i can utilize and enhance my skills.
+- 💞️ I’m looking for an internship/starting position  where i can utilize and enhance my skills.
 - 📫 ping me @bagulachakravarthi814@gmail.com
 
 <!---
