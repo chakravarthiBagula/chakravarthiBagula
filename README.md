@@ -1,9 +1,15 @@
 - 👋 Hi, I’m @chakravarthiBagula
-- 👀 I’m a hardworking and creative programmer.
-- 💻 I'm skilled in Robotic Process Automation, Python, Java, C/C++, DataBase, Redhat Linux, Web Development Basics(html/css/javascript)
-- 🌱 I’m currently studying Computer Science and Engineering from Aditya College of Engineering, Surampalem.
-- 💞️ I’m looking for an internship/starting position  where i can utilize and enhance my skills.
-- 📫 ping me @bagulachakravarthi814@gmail.com
+- 👀 I’m a computer science student and a competitive programmer.
+- 💻 My skilled in Robotic Process Automation, Python, Java, C/C++, DataBase, Redhat Linux, Web Development Basics(html/css/javascript)
+- 👩‍💻 Here are the my coding profiles
+- <ul>
+      <li> <a href = "https://www.hackerrank.com/chakri_B">HackerRank</a> </li>
+      <li> <a href = "https://leetcode.com/real_me/">LeetCode</a> </li>
+      <li> <a href = "https://www.codechef.com/users/chakravarthi_b">Codechef👨‍🍳</a> </li>
+      <li> <a href = "https://auth.geeksforgeeks.org/user/bagulachakravarthi814/practice/">GeeksforGeeks</a> </li>
+  </ul>
+- 💞️ Thanks for visiting.
+- 📫 Email Id @bagulachakravarthi814@gmail.com
 
 <!---
 chakravarthiBagula/chakravarthiBagula is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
