@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @chakravarthiBagula
 - 👀 I’m a computer science student and a competitive programmer.
-- 💻 My skilled in Robotic Process Automation, Python, Java, C/C++, DataBase, Redhat Linux, Web Development Basics(html/css/javascript)
+- 💻 My skilled are Robotic Process Automation, Python, Java, C/C++, DataBase, Redhat Linux, Web Development Basics(html/css/javascript)
+- 🤞  Data Structures and Algorithms
 - 👩‍💻 Here are the my coding profiles
 - <ul>
       <li> <a href = "https://www.hackerrank.com/chakri_B">HackerRank</a> </li>
