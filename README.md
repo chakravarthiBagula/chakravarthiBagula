@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @chakravarthiBagula
 - 👀 I’m a computer science student and a competitive programmer.
-- 💻 My skilled are Robotic Process Automation, Python, Java, C/C++, DataBase, Redhat Linux, Web Development Basics(html/css/javascript)
+- 💻 I'm skilled in  Robotic Process Automation, Python, Java, C/C++, DataBase, Redhat Linux,  Spring boot, MySQL, Sonarqube, Docker
 - 🤞  Data Structures and Algorithms
 - 👩‍💻 Here are the my coding profiles
 - <ul>
